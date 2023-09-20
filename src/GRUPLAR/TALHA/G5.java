@@ -9,6 +9,9 @@ public class G5 {
     public void sendOrder(){
         System.out.println("ORDER SEND!!!");
     }
+    public void updateOrder(){
+        System.out.println("ORDER updated!!!");
+    }
 
 
 }
