@@ -5,6 +5,6 @@ public class G1 {
         System.out.println("Furkan");
         System.out.println("Zafer");
         System.out.println("Furkan ve Zafer");
-      
+        System.out.println("Zafer ve Furkan");
     }
 }
