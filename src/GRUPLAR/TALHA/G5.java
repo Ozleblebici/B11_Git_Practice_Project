@@ -5,4 +5,10 @@ public class G5 {
         System.out.println("SEYIT");
         System.out.println("TALHA");
     }
+
+    public void sendOrder(){
+        System.out.println("ORDER SEND!!!");
+    }
+
+
 }
