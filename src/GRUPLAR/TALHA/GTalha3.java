@@ -5,5 +5,7 @@ public class GTalha3 {
         System.out.println("Ttest1");
         System.out.println("Ttest2");
         System.out.println("Ttest3");
+        System.out.println("Ttest4");
+        System.out.println("Ttest5");
     }
 }
