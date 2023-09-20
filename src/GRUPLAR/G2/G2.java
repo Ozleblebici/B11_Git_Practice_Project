@@ -5,5 +5,6 @@ public class G2 {
         System.out.println("Seyit alinin locali");
         System.out.println("Bilal`in locali");
         System.out.println("Bilal icin confict");
+        System.out.println("Canakkale");
     }
 }
