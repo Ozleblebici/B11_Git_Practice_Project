@@ -20,4 +20,14 @@ public class G5 {
             throw new RuntimeException(e);
         }
     }
+
+    public void sendOrder(){
+        System.out.println("ORDER SEND!!!");
+    }
+
+    public void updateOrder(){
+        System.out.println("ORDER updated!!!");
+    }
+
+
 }
