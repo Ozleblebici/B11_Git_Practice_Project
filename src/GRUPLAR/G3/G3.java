@@ -6,7 +6,7 @@ public class G3 {
         System.out.println("YAVUZ2");
         System.out.println("ILYAS2");
 
-        System.out.println("YENI YAVUZ");
-        
+        System.out.println("YENI YAVUZ2");
+
     }
 }
