@@ -5,5 +5,7 @@ public class Seyit2 {
         System.out.println("TEST");
         System.out.println("TEST1");
         System.out.println("TEST2");
+        System.out.println("TEST4");
+        System.out.println("TEST3");
     }
 }
