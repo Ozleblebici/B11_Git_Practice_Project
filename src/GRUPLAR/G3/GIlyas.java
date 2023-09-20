@@ -1,8 +1,7 @@
 package GRUPLAR.G3;
 
-public class G3 {
-
+public class GIlyas {
     public static void main(String[] args) {
-        System.out.println("G3 Ilyas girdisi");
+        System.out.println("GIlyas çalışıyor");
     }
 }
