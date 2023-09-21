@@ -12,6 +12,7 @@ public class G2 {
         System.out.println("Furkan");
         System.out.println("Benim adim seyit ali naber abi nasilsin");
         System.out.println("Benim soyadim oran naber abi nasilsin");
+        System.out.println("aasdasd asdasd asd ");
         System.out.println("Yeniden");
     }
 }
