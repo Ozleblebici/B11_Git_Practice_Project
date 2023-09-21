@@ -12,5 +12,6 @@ public class G1 {
         System.out.println("Merge Konmusu");
         System.out.println("Merge Konmusu");
         System.out.println("Merge Konmusu");
+        System.out.println("Localden maine eklenen metot");
     }
 }
