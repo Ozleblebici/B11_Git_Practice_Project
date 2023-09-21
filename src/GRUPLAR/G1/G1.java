@@ -6,5 +6,12 @@ public class G1 {
         System.out.println("Zafer");
         System.out.println("Furkan ve Zafer");
         System.out.println("Zafer ve Furkan");
+
+        System.out.println("Merge Konusu");
+        System.out.println("Merge Konusu");
+        System.out.println("Merge Konmusu");
+        System.out.println("Merge Konmusu");
+        System.out.println("Merge Konmusu");
+        System.out.println("Localden maine eklenen metot");
     }
 }
